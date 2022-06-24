@@ -26,7 +26,7 @@ public class LambdaStepsTest extends BaseTest {
             $(By.partialLinkText("Issues")).click();
         });
         step("Проверяем наличие необходимого issue", () -> {
-            $("#issue_1703_link").shouldHave(text("Don't convert assumption///"));
+            $("#issue_1703_link").shouldHave(text("Don't convert assumption"));
         });
 
     }
