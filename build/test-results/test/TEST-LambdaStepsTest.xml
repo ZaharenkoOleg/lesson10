@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LambdaStepsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-24T15:13:35" hostname="DESKTOP-SELOJUF" time="8.139">
+  <properties/>
+  <testcase name="Проверка наличия названия конкретной Issue в разделе Issue, используя Allure lambda steps" classname="LambdaStepsTest" time="8.139"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Jun 24, 2022 6:13:36 PM org.openqa.selenium.remote.RemoteWebDriver startSession
+WARNING: Support for Legacy Capabilities is deprecated; You are sending the following invalid capabilities: [acceptSslCerts, handlesAlerts, javascriptEnabled, takesScreenshot]; Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+Starting ChromeDriver 102.0.5005.61 (0e59bcc00cc4985ce39ad31c150065f159d95ad3-refs/branch-heads/5005@{#819}) on port 64852
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jun 24, 2022 6:13:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected upstream dialect: W3C
+Jun 24, 2022 6:13:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+WARNING: Support for Legacy Capabilities is deprecated; You are sending the following invalid capabilities: [acceptSslCerts, handlesAlerts, javascriptEnabled, takesScreenshot]; Please update to W3C Syntax: https://www.selenium.dev/blog/2022/legacy-protocol-support/
+Jun 24, 2022 6:13:38 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFO: Found exact CDP implementation for version 102
+]]></system-err>
+</testsuite>
